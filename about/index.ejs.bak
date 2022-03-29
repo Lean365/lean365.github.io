@@ -1,0 +1,211 @@
+---
+title: About Us
+date: 2015-11-17 01:00:51
+layout: page
+---
+<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+  <!-- BEGIN CONTENT -->
+  <div class="col-md-12 col-sm-12">
+    <div class="content-page">
+      <div class="row margin-bottom-30">
+	<!-- BEGIN INFO BLOCK -->               
+	<div class="col-md-7">
+	  <h2 class="no-top-space">我们专业的IT团队</h2>
+	  <p>本公司成立于2005年，致力提供完善及称心的服务给客户，我们除了销售各类型电脑产品外，亦提供维修及IT有关服务，服务包括:软件及硬件销售，电脑技术支援，系统保养，电脑维修，网络维护及建构以及资料救援等。我们的技术人员都拥有从事电脑行业的多年经验，能够确保提供专业的服务，至今巳为不少顾客提供优质的服务。</p> 
+	  <p>为用户搜罗各式各样的硬件和软件的供应商，并筛选后选出一套合适及最高成本效益的方案，更因应需求，为客户提供技术协作。达至单一联系，完成目标的宗旨。</p>
+	  <!-- BEGIN LISTS -->
+	  <div class="row front-lists-v1">
+	    <div class="col-md-6">
+	      <ul class="list-unstyled margin-bottom-20">
+		<li><i class="fa fa-check"></i> IT技术支援及电脑保养服务</li>
+		<li><i class="fa fa-check"></i> 服务器及网络设备建立服务 </li>
+		<li><i class="fa fa-check"></i> 网络系统及布线服务</li>
+	      </ul>
+	    </div>
+	    <div class="col-md-6">
+	      <ul class="list-unstyled">
+		<li><i class="fa fa-check"></i> 服务器搬迁及数据中心搬迁服务</li>
+		<li><i class="fa fa-check"></i> 电脑及周边系统销售 </li>
+		<li><i class="fa fa-check"></i> 数据恢复及救援服务</li>
+	      </ul>
+	    </div>
+	  </div>
+	  <!-- END LISTS -->
+	</div>
+	<!-- END INFO BLOCK -->   
+
+	<!-- BEGIN CAROUSEL -->            
+	<div class="col-md-5 front-carousel">
+	  <div id="myCarousel" class="carousel slide">
+	    <!-- Carousel items -->
+	    <div class="carousel-inner">
+	      <div class="item active">
+                <img src='../metronic/assets/pages/img/index-sliders/1.jpg'>
+		<div class="carousel-caption">
+		  <p>Network Solutions</p>
+		</div>
+	      </div>
+	      <div class="item">
+                <img src='../metronic/assets/pages/img/index-sliders/2.jpg'>
+		<div class="carousel-caption">
+		  <p>Application Solutions</p>
+		</div>
+	      </div>
+	      <div class="item">
+                <img src='../metronic/assets/pages/img/index-sliders/3.jpg'>
+		<div class="carousel-caption">
+		  <p>Service Solutions</p>
+		</div>
+	      </div>
+	    </div>
+	    <!-- Carousel nav -->
+	    <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+	      <i class="fa fa-angle-left"></i>
+	    </a>
+	    <a class="carousel-control right" href="#myCarousel" data-slide="next">
+	      <i class="fa fa-angle-right"></i>
+	    </a>
+	  </div>                
+	</div>
+	<!-- END CAROUSEL -->
+      </div>
+
+      <div class="row margin-bottom-40">
+	<!-- BEGIN TESTIMONIALS -->
+	<div class="col-md-7 testimonials-v1">
+	  <h2>Client Testimonials</h2>                
+	  <div id="myCarousel1" class="carousel slide">
+	    <!-- Carousel items -->
+	    <div class="carousel-inner">
+	      <div class="active item">
+		<blockquote><p>我经新同事介绍找到 Lean Soft, 他们帮我将多个旧的服务器集合成一个, 令到我公司的 IT 费用减少至 CNY:2000 月, 同时又提升服务器的速度, 我印象最深的是他们选择另一种的宽频月费, 每月为我们节省5百几之余, 上网速度和之前没有分别. 相比之前的IT月费, 我们共节省了CNY3100, 我老板赞我选择正确!</p></blockquote>
+		<div class="carousel-info">
+		  <img src='../metronic/assets/pages/img/people/img1-small.jpg'>
+		  <div class="pull-left">
+		    <span class="testimonials-name">BuShu Wang </span>
+		    <span class="testimonials-post">Administrative Office</span>
+		  </div>
+		</div>
+	      </div>
+	      <div class="item">
+		<blockquote><p>Lean Soft 记录我们的每一个电脑问题, 清楚记录问题的进度, 定期汇报及分析出现的电脑问题, 提供建议 (IT Solutions) 改进电脑系统, 严如我的电脑部, 和之前的电脑公司相比, 我感受到各种优势: 快速, 技术熟练, 系统化管理及负责任, 所以, 我减少管理电脑的烦恼及提高同事的工作效率.</p></blockquote>
+		<div class="carousel-info">
+		  <img src='../metronic/assets/pages/img/people/img5-small.jpg'>
+		  <div class="pull-left">
+		    <span class="testimonials-name">DaDan Zhang</span>
+		    <span class="testimonials-post">Director</span>
+		  </div>
+		</div>
+	      </div>
+	      <div class="item">
+		<blockquote><p>我是电脑盲, 我需要有人随时帮我解决电脑问题, Lean Soft 的经验真是丰富, 我的问题他们总是几分钟就搞好, 现在, 无论我在哪里工作, 无论是 Outlook 电邮, 还是 Excel 应用, 有问题我就找好帮手Lean Soft.现在, 电脑不会影响我的工作, 真正是我的好工具.我极力推荐 Lean Soft IT Support!</p></blockquote>
+		<div class="carousel-info">
+		  <img src='../metronic/assets/pages/img/people/img2-small.jpg'>
+		  <div class="pull-left">
+		    <span class="testimonials-name">BiSheng Li </span>
+		    <span class="testimonials-post">Sales Manager</span>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	    <!-- Carousel nav -->
+	    <a class="left-btn" href="#myCarousel1" data-slide="prev"></a>
+	    <a class="right-btn" href="#myCarousel1" data-slide="next"></a>
+	  </div>
+	</div>
+	<!-- END TESTIMONIALS --> 
+
+	<!-- BEGIN PROGRESS BAR -->
+	<div class="col-md-5 front-skills">
+	  <h2 class="block">Our Skills</h2>
+	  <span>Professional 90%</span>
+	  <div class="progress">
+	    <div role="progressbar" class="progress-bar" style="width: 98%;"></div>
+	  </div>
+	  <span>Timely 95%</span>
+	  <div class="progress">
+	    <div role="progressbar" class="progress-bar" style="width: 95%;"></div>
+	  </div>
+	  <span>High opinion 99%</span>
+	  <div class="progress">
+	    <div role="progressbar" class="progress-bar" style="width: 99%;"></div>
+	  </div>
+	</div>                       
+	<!-- END PROGRESS BAR -->
+      </div>
+
+      <div class="row front-team">
+	<ul class="list-unstyled">
+	  <li class="col-md-3">
+	    <div class="thumbnail">
+              <img src='../metronic/assets/pages/img/people/1.jpg'>
+	      <h3>
+		<strong>诚信服务</strong> 
+		<small>Service</small>
+	      </h3>
+	      <p>以中小企为主，提供完备的电脑支援服务如程式设计、网页制作、资讯及网络保安等，全面照顾客户的需要。</p>
+	      <ul class="social-icons social-icons-color">
+		<li><a class="facebook" data-original-title="Facebook" href="javascript:;"></a></li>
+		<li><a class="twitter" data-original-title="Twitter" href="javascript:;"></a></li>
+		<li><a class="googleplus" data-original-title="Goole Plus" href="javascript:;"></a></li>
+		<li><a class="linkedin" data-original-title="Linkedin" href="javascript:;"></a></li>
+	      </ul>
+	    </div>
+	  </li>
+	  <li class="col-md-3">
+	    <div class="thumbnail">
+              <img src='../metronic/assets/pages/img/people/2.jpg'>
+	      <h3>
+		<strong>快速维修</strong> 
+		<small>Quickest</small>
+	      </h3>
+	      <p>大部分的客户可以在1小时内到达现场提供紧急支援及使用云端, 减小客户IT开支; 增加公司效率，现代化公司形象。</p>
+	      <ul class="social-icons social-icons-color">
+		<li><a class="facebook" data-original-title="Facebook" href="javascript:;"></a></li>
+		<li><a class="twitter" data-original-title="Twitter" href="javascript:;"></a></li>
+		<li><a class="googleplus" data-original-title="Goole Plus" href="javascript:;"></a></li>
+		<li><a class="linkedin" data-original-title="Linkedin" href="javascript:;"></a></li>
+	      </ul>
+	    </div>
+	  </li>
+	  <li class="col-md-3">
+	    <div class="thumbnail">
+              <img src='../metronic/assets/pages/img/people/3.jpg'>
+	      <h3>
+		<strong>解决方案</strong> 
+		<small>Solution</small>
+	      </h3>
+	      <p>探索创新的中小企IT方案。在我们的办公室，我们会测试产品的可行性，当方案成功部署和运用了一段时间后，我们便将其推荐给客户。</p>
+	      <ul class="social-icons social-icons-color">
+		<li><a class="facebook" data-original-title="Facebook" href="javascript:;"></a></li>
+		<li><a class="twitter" data-original-title="Twitter" href="javascript:;"></a></li>
+		<li><a class="googleplus" data-original-title="Goole Plus" href="javascript:;"></a></li>
+		<li><a class="linkedin" data-original-title="Linkedin" href="javascript:;"></a></li>
+	      </ul>
+	    </div>
+	  </li>
+	  <li class="col-md-3">
+	    <div class="thumbnail">
+              <img src='../metronic/assets/pages/img/people/4.jpg'>
+	      <h3>
+		<strong>专业团队</strong> 
+		<small>Team</small>
+	      </h3>
+	      <p>经验丰富的IT队伍，为了确保服务质素， 我们的工程师拥有5年以上的工作经验，并且已考取特定的专业资格及证书。</p>
+	      <ul class="social-icons social-icons-color">
+		<li><a class="facebook" data-original-title="Facebook" href="javascript:;"></a></li>
+		<li><a class="twitter" data-original-title="Twitter" href="javascript:;"></a></li>
+		<li><a class="googleplus" data-original-title="Goole Plus" href="javascript:;"></a></li>
+		<li><a class="linkedin" data-original-title="Linkedin" href="javascript:;"></a></li>
+	      </ul>
+	    </div>
+	  </li>
+	</ul>            
+      </div>
+
+    </div>
+  </div>
+  <!-- END CONTENT -->
+</div>
+<!-- END SIDEBAR & CONTENT -->

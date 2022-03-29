@@ -1,0 +1,398 @@
+---
+layout: index
+---
+<div class="container-fluid flush-with-header">
+  <div class="row margin-bottom-40 row-corporate bg-light-1">
+    <div class="container">
+      <div class="col-xs-8 col-sm-6 row-corporate-text-container">
+	<div class="row-corporate-text">
+	  <h1>Lean Soft can <b class="require">help you</b>.</h1>
+	  <h4 class="wow fadeIn">Lean Soft专注于为客户提供全面的IT支援服务，
+	  十年经验，公司位于东莞，大部分珠三角也可以在1小时内到达现场提供紧急支援，
+	  亦会因应客户需求，度身订制24小时支援方案.</h4>
+	</div>
+      </div>
+      <div class="col-xs-4 col-sm-6">
+	<img src="/metronic/assets/pages/img/frontend-slider/ipadmini.png">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+    <div class="row service-box margin-bottom-40">
+      <div class="col-md-4 col-sm-4">
+	<div class="service-box-heading">
+	  <em><i class="fa fa-location-arrow blue wow rollIn"></i></em>
+	  <span>IT技术支援及电脑保养服务</span>
+	</div>
+	<p>- 电脑维护计划 / IT Support/ IT技术支援服务<br>
+		- 远端支援服务 <br>
+		- 伺服器支援服务<br>
+		- 资料备份及还原 / 灾难复原服务<br>
+		- 定期检查电脑服务<br>
+		- IT外判与管理服务<br>
+		- 顾问服务 / IT顾问服务<br>
+		- 清除病毒和黑客软件方案<br>
+		- 数据及电脑设备销毁服务</p>
+	  <img class="img-responsive"
+	  src="/metronic/assets/corporate/img/main/1.jpg">
+      </div>
+      <div class="col-md-4 col-sm-4">
+	<div class="service-box-heading">
+	  <em><i class="fa fa-check red wow rollIn"></i></em>
+	  <span>服务器及网络设备建立服务</span>
+	</div>
+	<p>- Microsoft Windows Server 方案<br>
+- Microsoft Exchange Server 方案<br>
+- Linux服务器方案<br>
+- Hyper-V虚拟服务器方案<br>
+- VMware虚拟服务器方案<br>
+- VPN(虚拟私人网络)服务器方案<br>
+- 服务器紧急暂借服务<br>
+- 电邮和网站托管服务<br>
+- Cloud方案
+<br>
+		</p>
+	  <img class="img-responsive"
+	  src="/metronic/assets/corporate/img/main/2.jpg">
+      </div>
+      <div class="col-md-4 col-sm-4">
+	<div class="service-box-heading">
+	  <em><i class="fa fa-compress green wow rollIn"></i></em>
+	  <span>网络系统及布线服务</span>
+	</div>
+	<p>
+		- 工业园区网络工程<br>
+		- 办公室网络工程<br>
+		- Fluke 网络系统测试<br>
+		- 机柜网线重组<br>
+		- 光纤网络工程 / 光纤布线工程<br>
+		- 网络布线工程 / 网络拉线工程<br>
+		- 智能停车场<br>
+		- 门禁监控工程<br>
+		- DLP大屏系统<br>
+
+</p>
+	  <img class="img-responsive"
+	  src="/metronic/assets/corporate/img/main/3.jpg">
+      </div>
+    </div>
+    </div>
+<div class="container-fluid">
+<div class="row margin-bottom-40 row-corporate bg-light-2">
+  <div class="container">
+    <div class="col-xs-4 col-xs-pull-4 col-sm-pull-0 col-sm-6 wow fadeIn">
+      <img src="/metronic/assets/pages/img/frontend-slider/iphone_right.png">
+    </div>
+    <div class="col-xs-6 row-corporate-text-container">
+    <div class="row-corporate-text">
+      <h1>We're committed to our <b class="wow fadeIn require">process</b>.</h1>
+      <h4 class="wow fadeIn">为客户提供全面及专业的一站式服务</h4>
+    </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="main">
+  <div class="container">
+    <!-- BEGIN STEPS -->
+    <div class="row margin-bottom-40 front-steps-wrapper front-steps-count-3 wow
+    fadeIn">
+      <div class="col-md-4 col-sm-4 front-step-col">
+	<div class="front-step front-step1">
+	  <h2>One Hour 紧急支援服务</h2>
+	  <p>我们承诺收到客户电话后1小时内到达现场提供紧急支援，亦会因应客户需求，度身订造24小时支援方案， 务求解决客户每分每秒的需要。</p>
+	</div>
+      </div>
+      <div class="col-md-4 col-sm-4 front-step-col">
+	<div class="front-step front-step2">
+	  <h2>上门检查、远端技术支援</h2>
+	  <p>提供全面的办公室支援，从上门检查及远端技术支援，还有提供伺服器托管及云端服务，从而减小客户IT开支，增加公司效率、现代化公司形象。</p>
+	</div>
+      </div>
+      <div class="col-md-4 col-sm-4 front-step-col">
+	<div class="front-step front-step3">
+	  <h2>提供数据网站解决方案</h2>
+	  <p>应用与分析「大数据」的潮流正在全球普遍化,提供专业的网站开发，设计以及数据收集</p>
+	</div>
+      </div>
+    </div>
+    <!-- END STEPS -->
+
+    <!-- BEGIN RECENT WORKS -->
+    <div class="row recent-work margin-bottom-40">
+      <div class="col-md-3">
+	<h2 class="wow fadeIn"><a href="/projects/">Recent Work</a></h2>
+	<p class="wow fadeIn">Free Soft</p>
+      </div>
+      <div class="col-md-9">
+	<div class="owl-carousel owl-carousel3">
+	  <div class="recent-work-item">
+	    <em>
+	      <img src="metronic/assets/pages/img/works/server.jpg" alt="Server" class="img-responsive">
+	      <a href="/projects"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/server.jpg" class="fancybox-button" title="Server" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+	    <a class="recent-work-description" href="/projects/#project6">
+	      <strong>Server</strong>
+	      <b>7x24 hour service.</b>
+	    </a>
+	  </div>
+	  <div class="recent-work-item">
+	    <em>
+	      <img src="metronic/assets/pages/img/works/laptop.jpg" alt="Desktop&Laptop" class="img-responsive">
+	      <a href="/projects"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/laptop.jpg" class="fancybox-button" title="Desktop&Laptop" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+	    <a class="recent-work-description" href="/laptop/#project1">
+	      <strong>Desktop&Laptop</strong>
+	      <b>5x8 hour service..</b>
+	    </a>
+	  </div>
+	  <div class="recent-work-item">
+	    <em>
+	      <img src="metronic/assets/pages/img/works/soft.jpg" alt="Software" class="img-responsive">
+	      <a href="/projects"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/soft.jpg" class="fancybox-button" title="Software" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+	    <a class="recent-work-description" href="/projects/#project7">
+	      <strong>Software</strong>
+	      <b>on-site training.</b>
+	    </a>
+	  </div>
+	  <div class="recent-work-item">
+	    <em>
+	      <img src="metronic/assets/pages/img/works/img4.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img4.jpg" class="fancybox-button" title="Project Name #4" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+	    <a class="recent-work-description" href="/projects/#project1">
+	      <strong>Amazing Project</strong>
+	      <b>Agenda corp.</b>
+	    </a>
+	  </div>
+	  <div class="recent-work-item">
+	    <em>
+	      <img src="metronic/assets/pages/img/works/img5.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img5.jpg" class="fancybox-button" title="Project Name #5" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+	    <a class="recent-work-description" href="/projects/#project1">
+	      <strong>Amazing Project</strong>
+	      <b>Agenda corp.</b>
+	    </a>
+	  </div>
+	  <div class="recent-work-item">
+	    <em>
+	      <img src="metronic/assets/pages/img/works/img6.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img6.jpg" class="fancybox-button" title="Project Name #6" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+	    <a class="recent-work-description" href="/projects/#project1">
+	      <strong>Amazing Project</strong>
+	      <b>Agenda corp.</b>
+	    </a>
+	  </div>
+	  <div class="recent-work-item">
+	    <em>
+	      <img src="metronic/assets/pages/img/works/img3.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img3.jpg" class="fancybox-button" title="Project Name #3" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+	    <a class="recent-work-description" href="/projects/#project1">
+	      <strong>Amazing Project</strong>
+	      <b>Agenda corp.</b>
+	    </a>
+	  </div>
+	  <div class="recent-work-item">
+	    <em>
+	      <img src="metronic/assets/pages/img/works/img4.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img4.jpg" class="fancybox-button" title="Project Name #4" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+	    <a class="recent-work-description" href="/projects/#project1">
+	      <strong>Amazing Project</strong>
+	      <b>Agenda corp.</b>
+	    </a>
+	  </div>
+	</div>       
+      </div>
+    </div>   
+    <!-- END RECENT WORKS -->
+
+    <!-- BEGIN TABS AND TESTIMONIALS -->
+    <div class="row mix-block margin-bottom-40">
+      <!-- TABS -->
+      <div class="col-md-7 tab-style-1">
+	<ul class="nav nav-tabs">
+	  <li class="active"><a href="#tab-1" data-toggle="tab">创新</a></li>
+	  <li><a href="#tab-2" data-toggle="tab">未來</a></li>
+	  <li><a href="#tab-3" data-toggle="tab">保障</a></li>
+	  <li><a href="#tab-4" data-toggle="tab">培训</a></li>
+	</ul>
+	<div class="tab-content">
+	  <div class="tab-pane row fade in active" id="tab-1">
+	    <div class="col-md-3 col-sm-3">
+	      <a href="metronic/assets/pages/img/works/innovation.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button">
+		<img class="img-responsive" src="metronic/assets/pages/img/works/innovation.jpg" alt="">
+	      </a>
+	    </div>
+	    <div class="col-md-9 col-sm-9">
+	      <p class="margin-bottom-10">由高质素的专业人才组成的队体，是成功的根源，也是用户利益的保障。我们对人才视作企业发展的根本，对员工有严格的管理与教导。我们拥有丰富的业务经验，有着高超的技术水平，还有大量的实践方案，有着充沛的创造力，而最重要的，有着以用户为先的基本信念。</p>
+	      <p><a class="more" href="javascript:;">Read more <i class="icon-angle-right"></i></a></p>
+	    </div>
+	  </div>
+	  <div class="tab-pane row fade" id="tab-2">
+	    <div class="col-md-9 col-sm-9">
+	      <p>无止境地追求最完善的品质、 效率、服务、创新、成本。跻身顶级的科技领导群 ，对社会真正做出贡献。</p>
+	    </div>
+	    <div class="col-md-3 col-sm-3">
+	      <a href="metronic/assets/pages/img/works/future.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button">
+		<img class="img-responsive" src="metronic/assets/pages/img/works/future.jpg" alt="">
+	      </a>
+	    </div>
+	  </div>
+	  <div class="tab-pane fade" id="tab-3">
+	  <div class="col-md-3 col-sm-3">
+	      <a href="metronic/assets/pages/img/works/insurance.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button">
+		<img class="img-responsive" src="metronic/assets/pages/img/works/insurance.jpg" alt="">
+	      </a>
+	    </div>
+	    <p>为了建立更优质的服务态度，本公司更是全国极少数购买了第三者保险的电脑公司，如因意外或员工疏忽，客户不需付出分毫， 所有货品全数得以赔偿， 我们用诚信与用心给你完全的信赖与信心。</p>
+	  </div>
+	  <div class="tab-pane fade" id="tab-4">
+	  <div class="col-md-9 col-sm-9">
+	    <p>本公司与高校合作，发掘一些潜质深厚，有毅力，有干劲及有意投身资讯科技界的人才，为他们提供在职培训，培育科技界的未来栋梁。</p>
+	  </div>
+	  <div class="col-md-3 col-sm-3">
+	      <a href="metronic/assets/pages/img/works/training.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button">
+		<img class="img-responsive" src="metronic/assets/pages/img/works/training.jpg" alt="">
+	      </a>
+	    </div>
+	  </div>
+	  
+	</div>
+      </div>
+      <!-- END TABS -->
+
+      <!-- TESTIMONIALS -->
+      <div class="col-md-5 testimonials-v1">
+	<div id="myCarousel" class="carousel slide">
+	  <!-- Carousel items -->
+	  <div class="carousel-inner">
+	    <div class="active item">
+	      <blockquote><p>我经新同事介绍找到 Lean Soft, 他们帮我将多个旧的服务器集合成一个, 令到我公司的 IT 费用减少至 CNY:2000 月, 同时又提升服务器的速度, 我印象最深的是他们选择另一种的宽频月费, 每月为我们节省5百几之余, 上网速度和之前没有分别. 相比之前的IT月费, 我们共节省了CNY3100, 我老板赞我选择正确!</p></blockquote>
+	      <div class="carousel-info">
+		<img class="pull-left" src="metronic/assets/pages/img/people/img1-small.jpg" alt="">
+		<div class="pull-left">
+		  <span class="testimonials-name">BuShu Wang</span>
+		  <span class="testimonials-post">Administrative Office</span>
+		</div>
+	      </div>
+	    </div>
+	    <div class="item">
+	      <blockquote><p>Lean Soft 记录我们的每一个电脑问题, 清楚记录问题的进度, 定期汇报及分析出现的电脑问题, 提供建议 (IT Solutions) 改进电脑系统, 严如我的电脑部, 和之前的电脑公司相比, 我感受到各种优势: 快速, 技术熟练, 系统化管理及负责任, 所以, 我减少管理电脑的烦恼及提高同事的工作效率.</p></blockquote>
+	      <div class="carousel-info">
+		<img class="pull-left" src="metronic/assets/pages/img/people/img5-small.jpg" alt="">
+		<div class="pull-left">
+		  <span class="testimonials-name">DaDan Zhang</span>
+		  <span class="testimonials-post">Director</span>
+		</div>
+	      </div>
+	    </div>
+	    <div class="item">
+	      <blockquote><p>我是电脑盲, 我需要有人随时帮我解决电脑问题, Lean Soft 的经验真是丰富, 我的问题他们总是几分钟就搞好, 现在, 无论我在哪里工作, 无论是 Outlook 电邮, 还是 Excel 应用, 有问题我就找好帮手Lean Soft.现在, 电脑不会影响我的工作, 真正是我的好工具.我极力推荐 Lean Soft IT Support!</p></blockquote>
+	      <div class="carousel-info">
+		<img class="pull-left" src="metronic/assets/pages/img/people/img2-small.jpg" alt="">
+		<div class="pull-left">
+		  <span class="testimonials-name">BiSheng Li</span>
+		  <span class="testimonials-post">Sales Manager</span>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+
+	  <!-- Carousel nav -->
+	  <a class="left-btn" href="#myCarousel" data-slide="prev"></a>
+	  <a class="right-btn" href="#myCarousel" data-slide="next"></a>
+	</div>
+      </div>
+      <!-- END TESTIMONIALS -->
+    </div>                
+    <!-- END TABS AND TESTIMONIALS -->
+    <!-- BEGIN BLOCKQUOTE BLOCK -->   
+    <div class="row quote-v1 margin-bottom-40 ">
+      <div class="col-md-9">
+	<span>Lean Series</span>
+      </div>
+      <div class="col-md-3 text-right">
+	<a class="btn-transparent" href="https://leanclass.github.io/" target="_blank"><i class="fa fa-rocket margin-right-10"></i>Preview Class</a>
+      </div>
+    </div>
+    <!-- END BLOCKQUOTE BLOCK -->
+
+
+    <!-- BEGIN CLIENTS -->
+    <div class="row margin-bottom-40 our-clients">
+      <div class="col-md-3">
+	<h2><a href="javascript:;">Partners</a></h2>
+	<p>Let’s create something that changes everything.</p>
+      </div>
+      <div class="col-md-9">
+	<div class="owl-carousel owl-carousel-brands">
+	  <div class="client-item">
+	    <a href="https://www.hp.com">
+	      <img src="metronic/assets/pages/img/clients/hp_gray.png" class="img-responsive" alt="">
+	      <img src="metronic/assets/pages/img/clients/hp.png" class="color-img img-responsive" alt="">
+	    </a>
+	  </div>
+	  <div class="client-item">
+	    <a href="https://www.dell.com">
+	      <img src="metronic/assets/pages/img/clients/dell_gray.png" class="img-responsive" alt="">
+	      <img src="metronic/assets/pages/img/clients/dell.png" class="color-img img-responsive" alt="">
+	    </a>
+	  </div>
+	  <div class="client-item">
+	    <a href="https://www.microsoft.com">
+	      <img src="metronic/assets/pages/img/clients/microsoft_gray.png" class="img-responsive" alt="">
+	      <img src="metronic/assets/pages/img/clients/microsoft.png" class="color-img img-responsive" alt="">
+	    </a>
+	  </div>
+	  <div class="client-item">
+	    <a href="https://www.fortinet.com">
+	      <img src="metronic/assets/pages/img/clients/fortinet_gray.png" class="img-responsive" alt="">
+	      <img src="metronic/assets/pages/img/clients/fortinet.png" class="color-img img-responsive" alt="">
+	    </a>
+	  </div>
+	  <div class="client-item">
+	    <a href="https://www.hp.com">
+	      <img src="metronic/assets/pages/img/clients/vmware_gray.png" class="img-responsive" alt="">
+	      <img src="metronic/assets/pages/img/clients/vmware.png" class="color-img img-responsive" alt="">
+	    </a>
+	  </div>
+	  <div class="client-item">
+	    <a href="https://www.hp.com">
+	      <img src="metronic/assets/pages/img/clients/cisco_gray.png" class="img-responsive" alt="">
+	      <img src="metronic/assets/pages/img/clients/cisco.png" class="color-img img-responsive" alt="">
+	    </a>
+	  </div>
+	  <div class="client-item">
+	    <a href="javascript:;">
+	      <img src="metronic/assets/pages/img/clients/lenovo_gray.png" class="img-responsive" alt="">
+	      <img src="metronic/assets/pages/img/clients/lenovo.png" class="color-img img-responsive" alt="">
+	    </a>
+	  </div>
+	  <div class="client-item">
+	    <a href="javascript:;">
+	      <img src="metronic/assets/pages/img/clients/ibm_gray.png" class="img-responsive" alt="">
+	      <img src="metronic/assets/pages/img/clients/ibm.png" class="color-img img-responsive" alt="">
+	    </a>
+	  </div>                  
+	</div>
+      </div>          
+    </div>
+    <!-- END CLIENTS -->
+  </div>
+</div>
+

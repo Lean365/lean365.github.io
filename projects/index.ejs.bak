@@ -1,0 +1,397 @@
+---
+title: Projects
+date: 2015-11-29 21:00:03
+layout: page
+---
+<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+  <div class="col-md-12 col-sm-12">
+    <div class="content-page">
+      <div class="filter-v1">
+	<ul class="mix-filter">
+	  <li data-filter="all" class="filter active">All</li>
+	  <li data-filter="category_1" class="filter">Desktop & Laptop</li>
+	  <li data-filter="category_2" class="filter">Network</li>
+	  <li data-filter="category_3" class="filter">Server</li>
+	  <li data-filter="category_4" class="filter">Software</li>
+	</ul>
+	<div class="row mix-grid thumbnails">
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/desktop.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>办公商务电脑</h4>
+		<p>满足日常办公，Office运行流畅</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project1" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>           
+	      <div class="mix-info container">
+		<h2>办公商务电脑</h2>
+		<p>满足日常办公，Office运行流畅，提供定制</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>售前咨询</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Call Me</a>
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-gift margin-right-10"></i>AI 报价</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> CPU i3,i5,i7,i9,r5</li>
+		      <li><i class="fa fa-square"></i> Menory 8G,16G</li>
+		      <li><i class="fa fa-square"></i> Hdd 1Tb 固态 256G,512G,1T</li>
+		      <li><i class="fa fa-square"></i> Monitor 19",21",23"</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-windows"></i> Windows 10 Windows 11</li>
+		      <li><i class="fa fa-square"></i> Office 2019学生版,365</li>
+		      <li><i class="fa fa-square"></i> Display AMD,Intel,Nvidia</li>
+		      <li><i class="fa fa-star"></i> 定制</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;"> Back</a>
+	      </div>               
+	    </div>                       
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/hometop.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>家用影音电脑</h4>
+		<p>娱乐办公两不误</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project2" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>               
+	      <div class="mix-info container">
+		<h2>家用影音电脑</h2>
+		<p>娱乐办公两不误，提供定制</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>售前咨询</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Call Me</a>
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-gift margin-right-10"></i>AI 报价</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> CPU i3,i5,i7,i9,r5</li>
+		      <li><i class="fa fa-square"></i> Menory 8G,16G</li>
+		      <li><i class="fa fa-square"></i> Hdd 1Tb 固态 256G,512G,1T</li>
+		      <li><i class="fa fa-square"></i> Monitor 19",21",23"</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-windows"></i> Windows 10 Windows 11</li>
+		      <li><i class="fa fa-square"></i> Office 2019学生版,365</li>
+		      <li><i class="fa fa-square"></i> Display AMD,Intel,Nvidia</li>
+		      <li><i class="fa fa-star"></i> 定制</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;"> Back</a>
+	      </div>               
+	    </div>                    
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/desktop.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>工作站</h4>
+		<p>超强性能显卡.图形处理，数字音频，影视编辑，3D渲染，建模，动画，模拟仿真</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#projectz" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>              
+	      <div class="mix-info container">
+		<h2>工作站</h2>
+		<p>超强性能显卡.图形处理，数字音频，影视编辑，3D渲染，建模，动画，模拟仿真</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>售前咨询</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Call Me</a>
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-gift margin-right-10"></i>AI 报价</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> CPU i3,i5,i7,i9,r5，xeon,鲲鹏</li>
+		      <li><i class="fa fa-square"></i> Menory 32G,64G</li>
+		      <li><i class="fa fa-square"></i> Hdd 1Tb 固态 1Tb</li>
+		      <li><i class="fa fa-square"></i> Monitor 21",23",27"</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-windows"></i> Windows 10 Windows 11</li>
+		      <li><i class="fa fa-square"></i> Office 2019学生版,365</li>
+		      <li><i class="fa fa-square"></i> Display AMD,Intel,Nvidia</li>
+		      <li><i class="fa fa-star"></i> 定制</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;"> Back</a>
+	      </div>               
+	    </div>      
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/industrial.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>工业用电脑</h4>
+		<p>主要功能是对生产过程及机电设备、工艺装备进行检测与控制。目前比较流行的一种是便携式的工控机。工业便携机是在保持工业计算优良性能的前提下，吸取了商务计算机便捷的特点。</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project3" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>                  
+	    </div>                      
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/itother.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>周边设备</h4>
+		<p>打印多功能一体机，投影机.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project3" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>     
+	      <div class="mix-info container">
+		<h2>周边设备</h2>
+		<p>打印多功能一体机，投影机</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>售前咨询</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Call Me</a>
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-gift margin-right-10"></i>AI 报价</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> hp,canon,brother</li>
+		      <li><i class="fa fa-square"></i> sony benq,epson,panasonic</li>
+		      <li><i class="fa fa-square"></i> m&g,deli</li>
+		      <li><i class="fa fa-square"></i> 碎纸机</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> fuji xerox ricoh</li>
+		      <li><i class="fa fa-square"></i> 扫描仪</li>
+		      <li><i class="fa fa-square"></i> 打卡机</li>
+		      <li><i class="fa fa-square"></i> 监控头</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;"> Back</a>
+	      </div>               
+	    </div>                                   
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/allinone.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>一体机</h4>
+		<p>比传统分体台式机更纤细，其可节省最多70%的桌面空间，简约无线,超级整合,潮流外观.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project4" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>     
+	    </div>                                   
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/network.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>网络设备</h4>
+		<p>防火墙，路由器，交换机，无线AP</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project5" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>    
+	      <div class="mix-info container">
+		<h2>网络设备</h2>
+		<p>防火墙，路由器，交换机，无线AP</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>售前咨询</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Call Me</a>
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-gift margin-right-10"></i>AI 报价</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i>Firewall- fortinet cisco watchgard</li>
+		      <li><i class="fa fa-square"></i>Router- cisco huawei</li>
+		      <li><i class="fa fa-square"></i>Hub- cisco huawei h3c,d-link</li>
+		      <li><i class="fa fa-square"></i>Wifi- csico netgear</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> Storage- huawei dell hp ibm lenovo</li>
+		      <li><i class="fa fa-square"></i> Netcard</li>
+		      <li><i class="fa fa-square"></i> 4G/5G</li>
+		      <li><i class="fa fa-square"></i> wifi 6</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;"> Back</a>
+	      </div>               
+	    </div>                                    
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/server.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>服务器</h4>
+		<p>HP，DELL,LENOVO，IBM，定制各种应用的WindowsServer和LinuxServer.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project6" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>   
+	      <div class="mix-info container">
+		<h2>服务器</h2>
+		<p>HP，DELL,LENOVO，IBM，定制各种应用的WindowsServer和LinuxServer.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>售前咨询</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Call Me</a>
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-gift margin-right-10"></i>AI 报价</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> CPU xeon,鲲鹏</li>
+		      <li><i class="fa fa-square"></i> Menory 64G,128G+</li>
+		      <li><i class="fa fa-square"></i> Raid 5+0 2Tb+</li>
+		      <li><i class="fa fa-square"></i> Monitor 21",23",27"</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-windows"></i> Windows Server RedHat Linux Server</li>
+		      <li><i class="fa fa-square"></i> Office 2019学生版,365</li>
+		      <li><i class="fa fa-square"></i> Database mssql,mysql,Oracle</li>
+		      <li><i class="fa fa-star"></i> 定制</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;"> Back</a>
+	      </div>               
+	    </div>                                     
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_4 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/soft.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>软件</h4>
+		<p>Microsoft，Mcafee，Autodesk，Adobe,Vmware,Altium,Siemens,SAP,各类ERP</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project7" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>    
+	      <div class="mix-info container">
+		<h2>软件</h2>
+		<p>Microsoft，Mcafee，Autodesk，Adobe,Vmware,Altium,Siemens,SAP,各类ERP</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>售前咨询</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Call Me</a>
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-gift margin-right-10"></i>AI 报价</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> Windows 10 11</li>
+		      <li><i class="fa fa-square"></i> Windows Server 2019 2022</li>
+		      <li><i class="fa fa-square"></i> Office 365 2019</li>
+		      <li><i class="fa fa-square"></i> Mcafee Security Eset</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> mssql mysql Oracle</li>
+		      <li><i class="fa fa-square"></i> powerpcb cam350 autocad 3dsmax</li>
+		      <li><i class="fa fa-square"></i> SAP，MES，ERP,</li>
+		      <li><i class="fa fa-square"></i> crm,oa,workflow</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;"> Back</a>
+	      </div>               
+	    </div>                                    
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/laptop.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>笔记本电脑</h4>
+		<p>家用，商务，移支工作站</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project8" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div> 
+	      <div class="mix-info container">
+		<h2>笔记本电脑</h2>
+		<p>代理Lenovo,Dell,Hp,Acer,Asus，满足不同层次用户的需求</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>售前咨询</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-rocket margin-right-10"></i>Call Me</a>
+		    <a href="javascript:;" class="btn-transparent"><i class="fa fa-gift margin-right-10"></i>AI 报价</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-square"></i> CPU i3,i5,i7,i9,r5</li>
+		      <li><i class="fa fa-square"></i> Menory 8G,16G</li>
+		      <li><i class="fa fa-square"></i> Hdd 1Tb 固态 256G,512G,1T</li>
+		      <li><i class="fa fa-square"></i> Monitor 19",21",23"</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-windows"></i> Windows 10 Windows 11</li>
+		      <li><i class="fa fa-square"></i> Office 2019学生版,365</li>
+		      <li><i class="fa fa-square"></i> Display AMD,Intel,Nvidia</li>
+		      <li><i class="fa fa-star"></i> 定制</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;"> Back</a>
+	      </div>               
+	    </div>                                       
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
